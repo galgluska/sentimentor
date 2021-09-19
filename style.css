@@ -1,0 +1,19 @@
+td {
+    text-align: center;   
+}
+
+body {
+    background-color:whitesmoke;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+#resultbox {
+
+    margin: 0px;
+    width: 250px;
+    height: 100px;
+        
+}
